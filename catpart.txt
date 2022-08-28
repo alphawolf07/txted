@@ -1,0 +1,25 @@
+#Errorstream
+    Presence of error:
+    Present.
+    Not Present.
+
+#Options
+    Options:
+    -f.
+    -e.
+    -i.
+    -s.
+    -x.
+    -r.
+    -n.
+
+
+#Output
+    Whether produced output matches the actual output:
+    Matches.
+    Doesnt match.
+
+#Input
+    Whether inout matches the contents of the file:
+    Yes.
+    No.
